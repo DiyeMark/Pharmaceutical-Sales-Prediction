@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Pycharm
+.idea/
+
+# Mac OS file
+.DS_Store
+
+# Mlflow
+/mlruns
+
 # Distribution / packaging
 .Python
 build/
