@@ -6,3 +6,6 @@ scipy==1.8.1
 statsmodels==0.13.2
 mlflow==1.26.0
 sklearn==0.0
+streamlit~=1.9.2
+setuptools~=60.2.0
+dvc~=2.10.2
