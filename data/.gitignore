@@ -2,3 +2,5 @@
 /store.csv
 /test.csv
 /train.csv
+/clean_train.csv
+/clean_test.csv
